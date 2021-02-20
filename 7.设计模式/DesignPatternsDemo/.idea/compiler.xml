@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Demo1" target="1.7" />
+      <module name="Demo10" target="1.7" />
+      <module name="Demo11" target="1.7" />
+      <module name="Demo12" target="1.7" />
+      <module name="Demo13" target="1.7" />
+      <module name="Demo14" target="1.7" />
+      <module name="Demo15" target="1.7" />
+      <module name="Demo16" target="1.7" />
+      <module name="Demo17" target="1.7" />
+      <module name="Demo18" target="1.7" />
+      <module name="Demo19" target="1.7" />
+      <module name="Demo2" target="1.7" />
+      <module name="Demo20" target="1.7" />
+      <module name="Demo21" target="1.7" />
+      <module name="Demo22" target="1.7" />
+      <module name="Demo3" target="1.7" />
+      <module name="Demo4" target="1.7" />
+      <module name="Demo5" target="1.7" />
+      <module name="Demo6" target="1.7" />
+      <module name="Demo7" target="1.7" />
+      <module name="Demo8" target="1.7" />
+      <module name="Demo9" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

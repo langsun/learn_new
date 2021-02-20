@@ -1,0 +1,9 @@
+
+
+package com.sun.baseapp.base;
+
+public interface BaseView<T> {
+
+    void setPresenter(T presenter);
+
+}

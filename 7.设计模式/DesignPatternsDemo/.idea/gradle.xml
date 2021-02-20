@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$USER_HOME$/Development/android-sdk-macosx/gradle-2.4" />
+        <option name="gradleJvm" value="1.8 (7)" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Demo1" />
+            <option value="$PROJECT_DIR$/Demo10" />
+            <option value="$PROJECT_DIR$/Demo11" />
+            <option value="$PROJECT_DIR$/Demo12" />
+            <option value="$PROJECT_DIR$/Demo13" />
+            <option value="$PROJECT_DIR$/Demo14" />
+            <option value="$PROJECT_DIR$/Demo15" />
+            <option value="$PROJECT_DIR$/Demo16" />
+            <option value="$PROJECT_DIR$/Demo17" />
+            <option value="$PROJECT_DIR$/Demo18" />
+            <option value="$PROJECT_DIR$/Demo19" />
+            <option value="$PROJECT_DIR$/Demo2" />
+            <option value="$PROJECT_DIR$/Demo20" />
+            <option value="$PROJECT_DIR$/Demo21" />
+            <option value="$PROJECT_DIR$/Demo22" />
+            <option value="$PROJECT_DIR$/Demo3" />
+            <option value="$PROJECT_DIR$/Demo4" />
+            <option value="$PROJECT_DIR$/Demo5" />
+            <option value="$PROJECT_DIR$/Demo6" />
+            <option value="$PROJECT_DIR$/Demo7" />
+            <option value="$PROJECT_DIR$/Demo8" />
+            <option value="$PROJECT_DIR$/Demo9" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
